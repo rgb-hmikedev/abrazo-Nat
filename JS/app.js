@@ -7,7 +7,7 @@ function cambiaMensaje(){
 }
 
 setTimeout(function (){
-    alert("Recibiste un abrazo de Babu!")
+    alert("Recibiste un abrazo de tu amor!")
 
 }, 2400)
 
